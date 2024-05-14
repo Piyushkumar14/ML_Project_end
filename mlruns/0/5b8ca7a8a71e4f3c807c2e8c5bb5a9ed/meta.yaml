@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b8ca7a8a71e4f3c807c2e8c5bb5a9ed/artifacts
+end_time: 1715607848678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b8ca7a8a71e4f3c807c2e8c5bb5a9ed
+run_name: gentle-bird-894
+run_uuid: 5b8ca7a8a71e4f3c807c2e8c5bb5a9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715607845174
+status: 4
+tags: []
+user_id: pr141

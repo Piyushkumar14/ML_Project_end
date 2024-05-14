@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cab91ffea01c44de8eba88f29855a038/artifacts
+end_time: 1715605689907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cab91ffea01c44de8eba88f29855a038
+run_name: blushing-pug-717
+run_uuid: cab91ffea01c44de8eba88f29855a038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715605686519
+status: 4
+tags: []
+user_id: pr141
